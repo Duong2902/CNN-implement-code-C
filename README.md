@@ -2,6 +2,6 @@
 
 train: 300 image
 
-test : 200 imaga
+test : 100 image
 
 valid: 200 image
